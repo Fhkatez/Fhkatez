@@ -1,4 +1,11 @@
-## Bonjour!
+## Bonjour! 👋
+Je m'appelle Xin Zhang, étudiant en troisième année de BUT informatique à l'IUT Nancy-Charlemagne. 
+
+Je suis actuellement le parcours *Réalisation d'applications - Conception, Développement, Validation*.
+Ce parcours offre une formation complète dans le domaine du développement d'applications informatiques.
+Il met l'accent sur l'expérience pratique dans les domaines de l'ingénierie logicielle, de l'architecture des applications et des techniques de validation.
+
+Mon amour pour l'informatique remonte à mon enfance. À l'époque, j'adorais jouer à des jeux vidéo. Cette passion m'a poussé à rêver de créer mon propre jeu un jour.
 
 
 
