@@ -13,23 +13,31 @@ Il met l'accent sur l'expérience pratique dans les domaines de l'ingénierie lo
 - Programmation
 	- Algorithmique : itérations, récursivité, structures de données avancés
 	- Programmation objet en Java et PHP, programmation fonctionnelle en Scala, programmation en Python
+   	- Bonnes pratiques : patrons de conception, principes SOLID, normes et
+recommandations
 	- Capacité d'adaptation à d'autres langages
 - Développement
 	- Analyse et conceptin objet en UML
 	- Tests unitaires (junit, phpunit), gestion du code (git), documentation (javadoc)
 - Bases de données
 	- Modèle relationnel, SQL/PL-SQL, JDBC/PDO, Oracle, MySQL
+   	- Modèle conceptuel en UML, transformation en relations
 	- Normalisation
 	- NoSQL (MongoDB)
 - Système & Réseaux
 	- Processus, threads, shell
 	- Windows, Linux
 	- Protocoles et services réseaux internet
-	- TCP/IP, DNS, socket
+	- TCP/IP, DNS, socket, RMI
 - Développement Web
 	- HTML/CSS
-	- Programmation en javascript
+	- Programmation en javascript : fonctions, objets, classes, DOM/événements et 
+programmation asynchrone (fetch)
+	- Accès à un service web
+   	- Architecture MVC
 	- Serveur : développement en PHP, cookies, sessions, sécurité
 - Développement mobile
 	- Applications en Flutter
+- Administration et déploiement
+  	- Virtualisation des services, utilisation de docker, déploiement cloud, CI/CD
 
