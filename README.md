@@ -5,8 +5,6 @@ Je suis actuellement le parcours *Réalisation d'applications - Conception, Dév
 Ce parcours offre une formation complète dans le domaine du développement d'applications informatiques.
 Il met l'accent sur l'expérience pratique dans les domaines de l'ingénierie logicielle, de l'architecture des applications et des techniques de validation.
 
-Mon amour pour l'informatique remonte à mon enfance. À l'époque, j'adorais jouer à des jeux vidéo. Cette passion m'a poussé à rêver de créer mon propre jeu un jour.
-
 ## Stastiques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fhkatez&count_private=true&hide_rank=true&hide_title=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fhkatez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
